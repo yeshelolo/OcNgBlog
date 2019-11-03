@@ -17,4 +17,5 @@ import { PostListItemComponent } from './post-list-item/post-list-item.component
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule { }
